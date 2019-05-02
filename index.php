@@ -1,4 +1,5 @@
-fgvdfgdfgdffvfdv  f ff fsd
-
-
-<?php  echo "HOLS" ?>
+<?php
+echo "HOLS";
+$d="NJ21";
+echo $d;
+?>
